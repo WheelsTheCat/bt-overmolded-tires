@@ -17,6 +17,10 @@ Discussion here: [Discord Box Turtle Discussion](https://discord.com/channels/12
 You can print these in whatever sacrificial filament you want to use as most of these parts won't be reusable. 
 ## The exception is the new-style wheels. Print these in whatever filament you are printing all of your accent color parts in to match your box turtle build.
 
+Print settings:
+- 0.2mm layer height.
+- The Spiral Insert should be printed in vase mode.
+
 ![](pics/IMG_5309.JPEG)
 
 * 1 x [Ice Cube Tray](https://cdn.discordapp.com/attachments/1315355814512562242/1315355816831746078/Ice_Cube_Tray.stl?ex=678e7b10&is=678d2990&hm=5b6c16a64cc569ff9cf94ea2770314fcf803e500eb1698bfac7f0a14a485e3f0& "Ice Cube Tray") - second row, position 1 in black
