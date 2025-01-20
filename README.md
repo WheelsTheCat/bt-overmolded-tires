@@ -1,27 +1,29 @@
 # Box Turtle Overmolded Tires
-The steps I took to produce the Box Turtle Overmolded Tires according to the discussions had in the [Discord Box Turtle Discussion](https://discord.com/channels/1229586267671629945/1315355814512562242 "Discord Box Turtle discussion").
+# Thank you to Transmutated in the Box Turtle Discord for the excellent writeup and pictures!
 
-## Tools I Used
+Discussion here: [Discord Box Turtle Discussion](https://discord.com/channels/1229586267671629945/1315355814512562242 "Discord Box Turtle discussion").
+
+## Tools
 * hot glue gun
 * hobby knife
 * small pliers
 * diagonal cutting pliers or something else strong enough to cut the "ice-cube tray"
 * fine-tipped screwdriver or similar prying device
 
-## Material I Used
-* two-part rubber silicone; I used 10a, but 15a and 20a will work.
-* PLA and/or PETG filament for mold-making materials
+## Materials
+* two-part rubber silicone; 10a, 15a and 20a will work.
 
 ## STL Files To Print
-You can print these in whatever sacrificial filament you want to use as most of these parts won't be reusable. The exception is the new-style wheels. Print these in whatever filament you are printing all of your accent color parts in to match your box turtle build.
+You can print these in whatever sacrificial filament you want to use as most of these parts won't be reusable. 
+## The exception is the new-style wheels. Print these in whatever filament you are printing all of your accent color parts in to match your box turtle build.
 
 ![](pics/IMG_5309.JPEG)
 
 * 1 x [Ice Cube Tray](https://cdn.discordapp.com/attachments/1315355814512562242/1315355816831746078/Ice_Cube_Tray.stl?ex=678e7b10&is=678d2990&hm=5b6c16a64cc569ff9cf94ea2770314fcf803e500eb1698bfac7f0a14a485e3f0& "Ice Cube Tray") - second row, position 1 in black
 * 8 x [Retainers](https://cdn.discordapp.com/attachments/1315355814512562242/1325889552963080202/Retainer.stl?ex=678e91df&is=678d405f&hm=8db05880b4099054de46a1a0091acf164466db2533991df5311c954cf3777e53& "Retainers") - first row, position 1 in brown
-* 4 x [Part 1](https://cdn.discordapp.com/attachments/1315355814512562242/1325889553625645180/Part_1.stl?ex=678e91df&is=678d405f&hm=d3d4f13c34ddfa5e9b3a7ebaab370b6308693cb8d519fb0a90bfd640844c355c& "Part 1") - first row, position 2, above yellow spiral insert
-* 4 x [Part 2](https://cdn.discordapp.com/attachments/1315355814512562242/1325889553294168116/Part_2.stl?ex=678e91df&is=678d405f&hm=35d28d737ccca5812f44323f5dd08b73b12edc6cb844ec1e011b7dc4cf0f9e8e& "Part 2") - first row, position 2, below yellow spiral insert
-* 4 x [Spiral Inserts](https://cdn.discordapp.com/attachments/1315355814512562242/1325889553965518938/Spiral_Insert.stl?ex=678e91df&is=678d405f&hm=b2931798c314b5436f699fa9e35bf4357c2f034d0f5e26385bbdef4514af9c3a& "Spiral Inserts") first row, position two, in yellow
+* 8 x [Part 1](https://cdn.discordapp.com/attachments/1315355814512562242/1325889553625645180/Part_1.stl?ex=678e91df&is=678d405f&hm=d3d4f13c34ddfa5e9b3a7ebaab370b6308693cb8d519fb0a90bfd640844c355c& "Part 1") - first row, position 2, above yellow spiral insert
+* 8 x [Part 2](https://cdn.discordapp.com/attachments/1315355814512562242/1325889553294168116/Part_2.stl?ex=678e91df&is=678d405f&hm=35d28d737ccca5812f44323f5dd08b73b12edc6cb844ec1e011b7dc4cf0f9e8e& "Part 2") - first row, position 2, below yellow spiral insert
+* 8 x [Spiral Inserts](https://cdn.discordapp.com/attachments/1315355814512562242/1325889553965518938/Spiral_Insert.stl?ex=678e91df&is=678d405f&hm=b2931798c314b5436f699fa9e35bf4357c2f034d0f5e26385bbdef4514af9c3a& "Spiral Inserts") first row, position two, in yellow
 * 8 x [New Style Wheels](https://cdn.discordapp.com/attachments/1315355814512562242/1315355817717010432/New_Style_Wheel.stl?ex=678e7b11&is=678d2991&hm=a843b86973e516a3869fb125840ec64a09d25e5a3b0e69990adc25953914ab39& "New Style Wheels") first row, position 3, in orange
 * 8 x [New Style Wheel Plugs](https://cdn.discordapp.com/attachments/1315355814512562242/1315355817238597733/New_Style_Wheel_Plug.stl?ex=678e7b10&is=678d2990&hm=629d8cb73c5761ce2ce21c2c2846d2caeb26759471e9ac42f5925d58cf3135ef& "New Style Wheel Plugs") first row, position 4, in black
 
