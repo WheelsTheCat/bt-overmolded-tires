@@ -19,7 +19,8 @@ You can print these in whatever sacrificial filament you want to use as most of 
 
 Print settings:
 - 0.2mm layer height.
-- The Spiral Insert should be printed in vase mode.
+- The Spiral Insert should be printed in vase mode and using the arachne wall generator. 
+(Quality, Wall Generator, Arachne). Thanks Robnex!
 
 ![](pics/IMG_5309.JPEG)
 
