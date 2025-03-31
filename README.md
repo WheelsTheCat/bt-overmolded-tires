@@ -53,7 +53,7 @@ I found it easiest to work on two at a time instead of doing them all at once.
 ![](pics/IMG_5315.JPEG)
 
 ## Step 4
-Now it's time to pour the material into the mold. Mix your material as instructed. Mixing a combined total of 150-160g of material should be sufficient. If you would like to color your rubber silicone, you can use mica powder. For reference, I used black and mixed 160g of material and used 5g of mica powder, and that was a rich black.
+Now it's time to pour the material into the mold. Mix your material as instructed. Mixing a combined total of 130-140g of material should be sufficient. If you would like to color your rubber silicone, you can use mica powder. For reference, I used black and mixed 160g of material and used 5g of mica powder, and that was a rich black.
 
 Fill to the brim of the shell. Don't worry if some material goes into the well where the plug is while moving between wheels; it'll seep in anyway but is easy to clean out when dry. Avoid it, but don't panic or try to clean it when wet.
 
